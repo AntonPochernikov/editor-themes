@@ -1,9 +1,9 @@
 <scheme name="IntelliJ Light Extended" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2021-02-27T12:24:11</property>
+    <property name="created">2021-06-21T11:46:04</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-02-27T12:24:46</property>
+    <property name="ideVersion">2021.1.2.0.0</property>
+    <property name="modified">2021-06-21T11:46:08</property>
     <property name="originalScheme">IntelliJ Light Extended</property>
   </metaInfo>
   <colors>
@@ -420,6 +420,43 @@
         <option name="FOREGROUND" value="e26400" />
       </value>
     </option>
+    <option name="JSON.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="299f1b" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JSON.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="1f64c8" />
+      </value>
+    </option>
+    <option name="JSON.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="299f1b" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JSON.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="39a400" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="a73d00" />
+      </value>
+    </option>
+    <option name="JSON.STRING">
+      <value>
+        <option name="FOREGROUND" value="a73d00" />
+      </value>
+    </option>
+    <option name="JSON.VALID_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="e26400" />
+      </value>
+    </option>
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="ff" />
@@ -503,7 +540,7 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f50000" />
+        <option name="FOREGROUND" value="c000f5" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
